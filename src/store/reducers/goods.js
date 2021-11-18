@@ -14,7 +14,7 @@ const initialState = {
       price: 30,
       count: 5,
       isAvailable: true,
-      image: "https://www.pikpng.com/pngl/b/287-2874218_pepsi-png-image-free-download-pepsi-clipart.png"
+      image: "https://www.freeiconspng.com/thumbs/coca-cola-png/coca-cola-png-image-10.png"
     },
     {
       id: 3,
